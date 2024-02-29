@@ -2,7 +2,7 @@
 # Alumno: Diego Aleksandro Rodrigues Wust
 # Fecha: 7/2/2024
 # Versión: Proyecto final 
-# Video youtube:
+# Video youtube: https://youtu.be/4SVrGDo5QU4
 
 # Aplicacion que permite la funcionalidad de una pagina de ventas
 
