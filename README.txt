@@ -38,5 +38,4 @@
 
 
   EXTRA
-https://github.com/DiegoAWust/Proyecto-final-Diego-Aleksandro-Rodrigues-Wust
   el pedido no pude solucionar su funcionalidad, sus funciones estan y andan, lo que suelta error es la vinculacion de un correo para enviar el correo al usuario
